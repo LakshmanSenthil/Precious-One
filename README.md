@@ -32,6 +32,6 @@ git clone https://github.com/ziddi-shop/love-you.git
 4️⃣ **Open `index.html` in a browser & enjoy!**  
 
 ## ❤️ Credits
-💖 Made with love by **Ziddi** 💖
+💖 Made with love by **Dhanush** 💖
 
-**[👉 Click here to visit the live version](https://ziddi-shop.github.io/love-you/)** 
+
